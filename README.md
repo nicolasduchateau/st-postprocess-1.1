@@ -1,7 +1,7 @@
 # st-postprocess-1.1
 Speckle-tracking post-processing v1.1 - Matlab
 
-<h2>Instructions for scripts for processing / spatiotemporal alignment / visualization of speckle-tracking output.<h2>
+**Instructions for scripts for processing / spatiotemporal alignment / visualization of speckle-tracking output.**
 
 Release 1.1 = MATLAB scripts
 (slight bugs corrected from version 1.0)
