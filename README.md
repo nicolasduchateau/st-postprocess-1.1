@@ -9,7 +9,7 @@ Author: Nicolas Duchateau (nicolas.duchateau@creatis.insa-lyon.fr)
 
 Date: January, 2014
 
-Website for updates: links to the corresponding publications at: <br/> https://www.creatis.insa-lyon.fr/~duchateau/#publications
+Links to the corresponding publications at: <br/> https://www.creatis.insa-lyon.fr/~duchateau/#publications
 
 ------------------------------------------------------------------------------------------------------------------------
 **NOTICE:**
