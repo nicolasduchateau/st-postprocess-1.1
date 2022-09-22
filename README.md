@@ -1,7 +1,6 @@
-# st-postprocess-1.1
-Speckle-tracking post-processing v1.1 - Matlab
+Code for the post-processing of speckle-tracking data, available under the license [CeCILL-B](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html)
 
-**Instructions for scripts for processing / spatiotemporal alignment / visualization of speckle-tracking output.**
+# Speckle-tracking post-processing v1.1 - Matlab
 
 Release 1.1 = MATLAB scripts
 (slight bugs corrected from version 1.0)
@@ -13,20 +12,13 @@ Date: January, 2014
 Website for updates: links to the corresponding publications at: <br/> https://www.creatis.insa-lyon.fr/~duchateau/#publications
 
 ------------------------------------------------------------------------------------------------------------------------
-**COPYRIGHT NOTICE:**
-
-Processing / spatiotemporal alignment / visualization of speckle-tracking output
-(c) 2014 Nicolas Duchateau
+**NOTICE:**
 
 This code is made open-access. Comments and bug reports are welcome, as well as feedback on its possible improvements.
 
 Published reports of research using this code (or a modified version) should cite the following article that describes the method: <br/> *Duchateau N, De Craene M, Piella G, et al. A spatiotemporal statistical atlas of motion for the quantification of abnormalities in myocardial tissue velocities. Medical Image Analysis, 2011;15(3):316-28.*
 
 The present MATLAB implementation is the one detailed in: <br/> *Duchateau N, De Craene M, Pennec X, et al. Which reorientation for the atlas-based comparison of motion from cardiac image sequences? In: Proceedings of Spatio-Temporal Image Analysis for Longitudinal and Time-Series Image Data, MICCAI'12 Workshop. Springer LNCS, 2012;7570:25-37.*
-
-A complementary list of related publications / applications of the algorithm can be found at: <br/> https://www.creatis.insa-lyon.fr/~duchateau/#publications
-
-You are free to modify, extend or distribute this code, as long as this copyright notice is included whole and unchanged.
 
 ------------------------------------------------------------------------------------------------------------------------
 **IMPORTANT NOTE:** The data reading part is designed for data exported from ECHOPAC (GE Healthcare, Milwaukee, WI), using the "store full trace option". The user should adapt this part to the data format exported from other software.
