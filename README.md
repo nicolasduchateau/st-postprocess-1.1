@@ -16,10 +16,14 @@ Links to the corresponding publications at: <br/> https://www.creatis.insa-lyon.
 
 This code is made open-access. Comments and bug reports are welcome, as well as feedback on its possible improvements.
 
-Published reports of research using this code (or a modified version) should cite the following article that describes the method: <br/> *Duchateau N, De Craene M, Piella G, et al. A spatiotemporal statistical atlas of motion for the quantification of abnormalities in myocardial tissue velocities. Medical Image Analysis, 2011;15(3):316-28.*
+Published reports of research using this code (or a modified version) should cite the following article that describes the method:
+
+*Duchateau N, De Craene M, Piella G, et al. A spatiotemporal statistical atlas of motion for the quantification of abnormalities in myocardial tissue velocities. Medical Image Analysis, 2011;15(3):316-28.*
 https://doi.org/10.1016/j.media.2010.12.006
 
-The present MATLAB implementation is the one detailed in: <br/> *Duchateau N, De Craene M, Pennec X, et al. Which reorientation for the atlas-based comparison of motion from cardiac image sequences? In: Proceedings of Spatio-Temporal Image Analysis for Longitudinal and Time-Series Image Data, MICCAI'12 Workshop. Springer LNCS, 2012;7570:25-37.*
+The present MATLAB implementation is the one detailed in:
+
+*Duchateau N, De Craene M, Pennec X, et al. Which reorientation for the atlas-based comparison of motion from cardiac image sequences? In: Proceedings of Spatio-Temporal Image Analysis for Longitudinal and Time-Series Image Data, MICCAI'12 Workshop. Springer LNCS, 2012;7570:25-37.*
 https://doi.org/10.1007/978-3-642-33555-6_3
 
 ------------------------------------------------------------------------------------------------------------------------
