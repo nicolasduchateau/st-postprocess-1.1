@@ -1,6 +1,6 @@
 Code for the post-processing of speckle-tracking data, available under the license [CeCILL-B](http://www.cecill.info/licences/Licence_CeCILL-B_V1-en.html)
 
-# Speckle-tracking post-processing v1.1 - Matlab
+# Speckle-tracking post-processing - Matlab
 
 Release 1.1 = MATLAB scripts
 (slight bugs corrected from version 1.0)
